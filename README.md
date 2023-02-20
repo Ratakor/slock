@@ -1,8 +1,9 @@
-# Ratakor's slock
+# Ratakor's build of slock
 
 ## patch added and changes iirc
 - blur
 - dwm logo
+- dracula theme
 
 slock - simple screen locker
 ============================
